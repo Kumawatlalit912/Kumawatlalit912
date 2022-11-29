@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Lalit 👋</h2>
+<h1> Hey there! I'm Lalit 👋 </h1>
 <h2> A Passionate Software Developer From India 🇮🇳 </h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
@@ -38,4 +38,4 @@
 &nbsp; <a href="mailto:kumawatlalit912@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-⭐️ From [kumawatlalit](https://github.com/kumawatlalit912)
+⭐️ From [kumawatlalit912](https://github.com/kumawatlalit912)
