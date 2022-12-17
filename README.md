@@ -1,6 +1,7 @@
 <h1> Hey there! I'm Lalit 👋 </h1>
 <h2> A Passionate Software Developer From India 🇮🇳 </h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/AstonishingDentalGermanspitz' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/astonishingdentalgermanspitz">via Gfycat</a></p>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
