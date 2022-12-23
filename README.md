@@ -9,7 +9,7 @@
 - 💼 &nbsp; full-stack developer and Data Science.
 - 🌱 &nbsp; Enthusiast in full-Stack and Artificial Intelligence .
 - ✍️ &nbsp; Watching universe and trying out latest design trends as hobbies/side hustles.
-- 😴 &nbsp; I belive, a perfect nap can be the ultimate solution for any stress. 
+- 😴 &nbsp; I believe, a perfect nap can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
