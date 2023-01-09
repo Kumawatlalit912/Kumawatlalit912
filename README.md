@@ -45,5 +45,5 @@
 </p>
 
 ⭐️ From [kumawatlalit912](https://github.com/kumawatlalit912)
-<h1>Jai Shree Ram | Jai Shree Krishna </h1>
-<img align='right' alt="image" src="https://w0.peakpx.com/wallpaper/852/239/HD-wallpaper-god-bajrang-bali-ganesh-hanuman-kaali-krishna-mahadev-mahakal-shiva-shri-krishna-shri-ram.jpg" width="300" height="300" />
+<h1>Jai Shree Ram | Jai Shree Krishna | Jai Mahakal <img align='right' alt="image" src="https://w0.peakpx.com/wallpaper/852/239/HD-wallpaper-god-bajrang-bali-ganesh-hanuman-kaali-krishna-mahadev-mahakal-shiva-shri-krishna-shri-ram.jpg" width="300" height="300" /></h1>
+
