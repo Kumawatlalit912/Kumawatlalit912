@@ -45,5 +45,5 @@
 </p>
 
 ⭐️ From [kumawatlalit912](https://github.com/kumawatlalit912)
-<h1>Jai Shree Ram | Jai Shree Krishna | Jai Mahakal" width="300" height="300" /></h1>
+<h1>Jai Shree Krishna 💖/></h1>
 
