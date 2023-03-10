@@ -24,7 +24,7 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumawatlalit912&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=jolly" alt="lalit's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumawatlalit912&include_all_commits=true&count_private=true&show_icons=true&theme=jolly" alt="lalit's Github Stats">
 
 </br>
 
