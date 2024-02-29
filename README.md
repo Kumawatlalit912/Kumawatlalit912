@@ -1,6 +1,6 @@
 <h2>𝑰'𝒎 𝑳𝒂𝒍𝒊𝒕 Kumawat 👏</h2>
 <h2> Let your wild ideas dance with lines of code </h2>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumawatlalit912&label=Profile%20views&color=0e75b6&style=flat" alt="kumawatlalit" /> </p>
 <h3> 👨🏻‍💻💖👨‍💻💖👨‍💻 About Me </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
