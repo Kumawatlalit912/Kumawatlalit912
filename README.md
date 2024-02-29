@@ -2,9 +2,8 @@
 <h2> Let your wild ideas dance with lines of code </h2>
 <img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FFg1M&psig=AOvVaw2FkWsipqJ7m5iNwBpW6e1I&ust=1709251589047000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODHhcGgz4QDFQAAAAAdAAAAABAE" width="500"/>
 <h3> 👨🏻‍💻💖👨‍💻💖👨‍💻 About Me </h3>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/kumawatlalit912/count.svg?"  />
-</div>
+<p align="left"> <a href="https://www.linkedin.com/in/kumawatlalit/" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="kumawatlalit" </p>
+
 - 💼 &nbsp; Currently working on insurance products.
 - 💼 &nbsp; Worked on Ecommerce, Ivr, WebRtc products.
 - 🔭 &nbsp; I’m currently learning React,Next.js,React Native for Development and Elastic Stack,Mongodb for Database Management
@@ -15,6 +14,7 @@
 - ✍️ &nbsp; Watching universe and trying out latest design trends as hobbies/side hustles.
 - 😴 &nbsp; I believe, a perfect nap can be the ultimate solution for any stress. 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumawatlalit912&label=Profile%20views&color=0e75b6&style=flat" alt="kumawatlalit" /> </p>
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | JavaScript | React.js | Typescript | Next.js | C++ | MERN  
