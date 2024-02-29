@@ -2,7 +2,9 @@
 <h2> Let your wild ideas dance with lines of code </h2>
 <img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FFg1M&psig=AOvVaw2FkWsipqJ7m5iNwBpW6e1I&ust=1709251589047000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODHhcGgz4QDFQAAAAAdAAAAABAE" width="500"/>
 <h3> 👨🏻‍💻💖👨‍💻💖👨‍💻 About Me </h3>
-
+<div align="center">
+  <img src="https://profile-counter.glitch.me/kumawatlalit912/count.svg?"  />
+</div>
 - 💼 &nbsp; Currently working on insurance products.
 - 💼 &nbsp; Worked on Ecommerce, Ivr, WebRtc products.
 - 🔭 &nbsp; I’m currently learning React,Next.js,React Native for Development and Elastic Stack,Mongodb for Database Management
