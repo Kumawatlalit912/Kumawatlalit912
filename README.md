@@ -10,7 +10,7 @@
 - 🔭 &nbsp; I’m currently Advancing React(Ts), Next.js, React Native for Development and Elastic Stack, Mongodb for Database Management
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, Programming, and Mathematics.
-- 💼 &nbsp; full-stack Engineer and hands-on experience in Data Science.
+- 💼 &nbsp; full-stack Engineer and hands-on experience in Data Science and Networking.
 - 🌱 &nbsp; Enthusiast in full-Stack and Artificial Intelligence.
 - ✍️ &nbsp; Watching universe and trying out the latest design trends as hobbies/side hustles.
 - 😴 &nbsp; I believe, a perfect nap can be the ultimate solution for stress. 
