@@ -1,4 +1,3 @@
-<img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" alt="MasterHead" height="200">
 <h2>𝑰'𝒎 𝑳𝒂𝒍𝒊𝒕 Kumawat 👏</h2>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="kumawatlalit" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/kumawatlalit?trk=profile-badge">Kumawat's Linkedin</a></div>
 <h2> Let your wild ideas dance with lines of code </h2>
