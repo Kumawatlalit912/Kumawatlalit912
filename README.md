@@ -7,6 +7,7 @@
 
 - 💼 &nbsp; Currently working on insurance products.
 - 💼 &nbsp; Worked on e-commerce, IVR, and WebRtc products.
+- 💼 &nbsp; Contributing to NPM Package hexure UI and more open source projects.
 - 🔭 &nbsp; I’m currently Advancing React(Ts), Next.js, React Native for Development and Elastic Stack, Mongodb for Database Management
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, Programming, and Mathematics.
