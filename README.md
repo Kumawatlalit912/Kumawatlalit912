@@ -8,7 +8,7 @@
 - 💼 &nbsp; Currently working on insurance products.
 - 💼 &nbsp; Worked on e-commerce, IVR, and WebRtc products.
 - 💼 &nbsp; Contributing to NPM Package hexure UI and more open source projects.
-- 🔭 &nbsp; I’m currently Advancing React(Ts), Next.js, React Native for Development and Elastic Stack, Mongodb for Database Management
+- 🔝 &nbsp; I’m currently Advancing React(Ts), Next.js, React Native for Development and Elastic Stack, Mongodb for Database Management
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, Programming, and Mathematics.
 - 💼 &nbsp; full-stack Engineer and hands-on experience in Data Science and Networking.
@@ -20,10 +20,9 @@
 
 - 💻 &nbsp; Python | JavaScript | React.js | Typescript | Next.js | C++ | MERN  
 - 🌐 &nbsp; Full-Stack | React | HTML | CSS | JavaScript | Bootstrap | Sass | Tailwind 
-- 🛢 &nbsp; MySQL | Firebase | Postman
+- 📢 &nbsp; MySQL | Firebase | Postman
 - 🔧 &nbsp; Google Collab | Jupyter | Visual Studio code  | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
-
+- 💾 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kumawatlalit912&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
 
@@ -33,12 +32,7 @@
 
 </br>
 
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumawatlalit912&layout=compact&theme=jolly)](https://github.com/kumawatlalit912/github-readme-stats)
-
-
-
 
 <h3> 🤝🏻 Connect with Me </h3>
 
@@ -56,3 +50,47 @@
   
 ⭐️ From [kumawatlalit912](https://github.com/kumawatlalit912)
 
+<style>
+  body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+
+  #animation-canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+  }
+</style>
+<script>
+  window.onload = function() {
+    const canvas = document.createElement("canvas");
+    canvas.id = "animation-canvas";
+    document.body.appendChild(canvas);
+    const ctx = canvas.getContext("2d");
+
+    const resizeCanvas = () => {
+      canvas.width = window.innerWidth;
+      canvas.height = window.innerHeight;
+    };
+    resizeCanvas();
+    window.addEventListener("resize", resizeCanvas);
+
+    const draw = () => {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      ctx.fillStyle = "rgba(255, 255, 255, 0.2)";
+      for (let i = 0; i < 100; i++) {
+        const x = Math.random() * canvas.width;
+        const y = Math.random() * canvas.height;
+        const size = Math.random() * 4 + 1;
+        ctx.fillRect(x, y, size, size);
+      }
+      requestAnimationFrame(draw);
+    };
+    draw();
+  };
+</script>
